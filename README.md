@@ -204,13 +204,6 @@ Distributed under the Apache 2.0 License
 ```
 
 ---
-
-**Key Tools**:
-- [Markdown Guide](https://www.markdownguide.org/) - Syntax reference
-- [Readme.so](https://readme.so/) - Interactive editor
-- [Shields.io](https://shields.io) - Badge generator
-- [Mermaid Live Editor](https://mermaid.live) - Diagram creation
-
 Remember: A great README answers these questions within 30 seconds:
 1. What does this do?
 2. Why should I care?
